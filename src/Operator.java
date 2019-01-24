@@ -16,4 +16,9 @@ public class Operator {
         return sum;
 
     }
+    
+    public static int Multiply(int x, int y) {
+        int sum = x + y;
+        return sum;
+
 }
