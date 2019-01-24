@@ -22,3 +22,7 @@ public class Operator {
         return sum;
 
 }
+    public static int Divission(int x, int y) {
+        int sum = x + y;
+        return sum;
+    }
